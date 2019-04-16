@@ -1,4 +1,4 @@
 # repo2
-workshop example
 
-pierwsza linijka zmian
+
+Dodana **trzecia linijka zmian**
